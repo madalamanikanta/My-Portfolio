@@ -90,8 +90,8 @@ Add animations using Framer Motion
 📬 Contact
 
 Madala Manikanta
-📧 Email: [add your email here]
-💻 GitHub: @madalamanikanta
+📧 Email: madalamanikanta7075@gmail.com
+💻 GitHub: https://github.com/madalamanikanta/
 
 🔗 Portfolio: View Website
 
