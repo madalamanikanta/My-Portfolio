@@ -112,7 +112,7 @@ const Projects: React.FC = () => {
     },
     {
       title: "Iris Flower Classification",
-      description: "A weather application that provides real-time forecasts, historical data, and interactive maps for locations worldwide.",
+      description: "A machine learning project that classifies iris flowers into different species based on their features using Streamlit for the web interface.",
       technologies: ["Python", "Streamlit", "Scikit-learn", "Pandas", "NumPy"],
       imageUrl: "/Iris.png",
       projectUrl: "https://iris-flower-classification-manikanta.streamlit.app/ "
