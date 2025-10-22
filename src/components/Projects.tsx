@@ -97,25 +97,25 @@ const Projects: React.FC = () => {
   };
   const projects = [
     {
-      title: "E-Commerce Website",
-      description: "A fully responsive e-commerce platform with product filtering, cart functionality, and secure checkout.",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      imageUrl: "",
+      title: "MY Portfolio Website",
+      description: "A personal portfolio website showcasing my skills, projects, and experience as a web developer.",
+      technologies: ["React", "TypeScript", "Framer Motion", "Tailwind CSS"],
+      imageUrl: "/Portfolio.png",
       projectUrl: "#"
     },
     {
-      title: "Task Management App",
-      description: "A productivity application for managing tasks, setting deadlines, and tracking progress with team collaboration features.",
-      technologies: ["React", "TypeScript", "Firebase", "Tailwind CSS"],
-      imageUrl: "",
-      projectUrl: "#"
+      title: "Cine Sage Recommends(Anime Recommendation System)",
+      description: "An anime recommendation system that suggests anime titles based on user preferences and viewing history.",
+      technologies: ["React", "Vite", "TailwindCSS", "Node.js", "Express", "Supabase", "Jikan API", "Render"],
+      imageUrl: "/Anime.png",
+      projectUrl: " https://cine-sage-recommends.onrender.com/"
     },
     {
-      title: "Weather Dashboard",
+      title: "Iris Flower Classification",
       description: "A weather application that provides real-time forecasts, historical data, and interactive maps for locations worldwide.",
-      technologies: ["JavaScript", "OpenWeather API", "Chart.js", "CSS3"],
-      imageUrl: "",
-      projectUrl: "#"
+      technologies: ["Python", "Streamlit", "Scikit-learn", "Pandas", "NumPy"],
+      imageUrl: "/Iris.png",
+      projectUrl: "https://iris-flower-classification-manikanta.streamlit.app/ "
     }
   ];
 
